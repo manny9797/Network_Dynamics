@@ -1,4 +1,4 @@
-#Network dynamics and learning
+# Network dynamics and learning
 
 We dealt with topological and algebraic graph theory. The assignment is divided into three different exercises:
 
